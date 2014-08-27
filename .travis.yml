@@ -5,6 +5,3 @@ rvm:
 script:
   - bundle exec rspec blackjack.rb
 
-notifications:
-  email:
-    - jesse@comalproductions.com
