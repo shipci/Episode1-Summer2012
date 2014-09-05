@@ -5,7 +5,7 @@ A Casino game. No gambling, just skill!
 Kungfu fighting!! 
 Panda Level
 -----------
-
+[![Build Status](https://apibeta.shippable.com/projects/540975e36042fd4600c1f6cb/badge?branchName=master)](https://beta.shippable.com/projects/540975e36042fd4600c1f6cb/builds/latest)
 1. Play the game by running this code:
 
 ```
