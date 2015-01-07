@@ -9,4 +9,4 @@ rvm:
 
 script:
   - bundle exec rspec blackjack.rb
-
+build_image: shippable/minv2:beta
